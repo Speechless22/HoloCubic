@@ -12,7 +12,7 @@ set(CMAKE_CXX_COMPILER_WORKS 1)
 
 project("HoloCubic-fw" C CXX)
 
-include(CMakeListsPrivate.txt)
+include(CMakeLists.txt)
 
 if (EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/CMakeListsUser.txt)
     include(CMakeListsUser.txt)

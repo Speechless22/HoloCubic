@@ -1,4 +1,4 @@
-![](/5.Docs/Images/Holo1.jpg)
+![](/Docs/Images/Holo1.jpg)
 
 # HoloCubic--多功能透明显示屏桌面站
 
@@ -27,17 +27,17 @@
 
 * **Naive Version** ：即视频中出现的版本，比较简约（因为临时赶工设计的），最好使用光固化3D打印加工
 
-  ![](/5.Docs/Images/Holo3.png)
+  ![](/Docs/Images/Holo3.png)
 
 * **Bilibili Version** ：视频中后面出现的B站百大奖杯形式的外壳结构，适配`Naive Version`的PCB， **属于娱乐性质，非百大UP不建议采用**。
 
 * **Metal Version** ：视频发布后全新改版的外壳结构设计，优化了布局控件整体更紧凑精致，适配`Naive Version`的PCB，该建议使用CNC加工制作
 
-  ![](/5.Docs/Images/Holo2.jpg)
+  ![](/Docs/Images/Holo2.jpg)
 
 * **Ironman Version** ：新设计的野生钢铁侠风格结构件，该版本为和朋友合作设计的，后面可能会授权他联名量产，该结构适配`Ironman Version`的PCB
 
-  ![](/5.Docs/Images/Holo.jpg)
+  ![](/Docs/Images/Holo.jpg)
 
 > 野生钢铁侠联名的版本的结构件加工比较复杂，而且需要后期喷砂、阳极氧化等工艺所以单件制造成本很高（打听了下整套3个部件至少要1000元+），因此大家自己有加工渠道的可以用提供的文件自己去做。
 >
@@ -74,7 +74,7 @@
 
 > 这样省的每次修改都要重新交叉编译Arduino的固件，提升开发效率。
 
-![](/5.Docs/Images/Holo4.jpg)
+![](/Docs/Images/Holo4.jpg)
 
 `ImageToHolo`文件夹下包含一个Python脚本，用于将图片转换成HoloCubic固件中用到的图像资源。
 
