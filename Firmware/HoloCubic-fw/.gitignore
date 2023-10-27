@@ -2,5 +2,4 @@
 CMakeListsPrivate.txt
 cmake-build-*/ 
 out
-.idea
 CMakeFiles
