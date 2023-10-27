@@ -1,5 +1,2 @@
 .pio
-CMakeListsPrivate.txt
-cmake-build-*/ 
-out
-CMakeFiles
+.vscode

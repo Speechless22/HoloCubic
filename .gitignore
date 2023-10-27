@@ -24,3 +24,7 @@ Software/LvglSimulator/vs2019_proj/x64/Release
 Software/ImageToHolo/.idea
 Software/ImageToHolo/convertor/__pycache__
 /Firmware/HoloCubic-fw/CMakeSettings.json
+.vscode/settings.json
+Firmware/HoloCubic-fw/.vscode/c_cpp_properties.json
+Firmware/HoloCubic-fw/.vscode/extensions.json
+Firmware/HoloCubic-fw/.vscode/launch.json
